@@ -27,3 +27,6 @@ gti checkout tennhanh
 git branch
 git merge
 resolve conflict (git pull, sửa, git push)
+
+git resert: quay lại nếu chưa commit
+git reset HEAD~1: quay lại 1 bước nếu đã commit
