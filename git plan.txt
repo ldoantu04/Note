@@ -1,0 +1,29 @@
+git plan
+1.setup git 
+git config --global user.name "ten"
+git config --global user.email "email"
+
+2.tạo project git
+-tạo project trên github
+git clone
+git status
+git add .
+git git commit -m""
+git push origin main
+
+-tạo project từ local đẩy lên github
+git init
+git add .
+git status
+git commit -m""
+git remote add origin linkgit
+git push origin master
+3.htts/ssh
+create ssh key không cần mật khẩu 
+4.các câu lệnh đẩy
+git pull origin main : kéo code mới branch main về
+git checkout -b tennhanh : tạo nhánh mới
+gti checkout tennhanh
+git branch
+git merge
+resolve conflict (git pull, sửa, git push)
