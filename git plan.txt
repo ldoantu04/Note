@@ -25,7 +25,8 @@ git pull origin main : kéo code mới branch main về
 git checkout -b tennhanh : tạo nhánh mới
 gti checkout tennhanh
 git branch
-git merge
+git merge 
+  (git checkout branch dich, git pull, git merge nguon, i(de nhap), gox commit, esc, :wq(luu) or :q!(kh luu)) hoac git merge --abort (huy merge)
 resolve conflict (git pull, sửa, git push)
 
 git resert: quay lại nếu chưa commit
